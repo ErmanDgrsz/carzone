@@ -1,0 +1,16 @@
+asgiref==3.5.2
+certifi==2022.9.14
+distlib==0.3.6
+Django==4.0.4
+django-ckeditor==6.5.1
+django-js-asset==2.0.0
+django-multiselectfield==0.1.12
+filelock==3.8.0
+Pillow==9.2.0
+pipenv==2022.9.8
+platformdirs==2.5.2
+psycopg2==2.9.3
+sqlparse==0.4.2
+tzdata==2022.1
+virtualenv==20.16.5
+virtualenv-clone==0.5.7
